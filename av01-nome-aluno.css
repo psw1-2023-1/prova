@@ -1,0 +1,59 @@
+pre {
+    padding-top: 10px;
+    font-size: medium;
+}
+#tit{
+    background-color: white;
+    text-align: center;
+    font-size: large;
+}
+
+#pre1 {
+    background-color: rgba(255,0,0,0.3)
+
+}
+
+#pre2 {
+    background-color: rgba(255,0,0,0.3)
+}
+#pre3 {
+    background-color: rgba(255,0,0,0.3)
+}
+#pre4 {
+    background-color: rgba(255,0,0,0.3)
+}
+#pre5 {
+    background-color: rgba(255,0,0,0.3)
+}
+#pre6 {
+    background-color: rgba(255,0,0,0.3)
+}
+
+#pre7 {
+    background-color: rgba(255,0,0,0.3)
+}
+#pre8 {
+    background-color: rgba(255,0,0,0.3)
+}
+#pre9 {
+    background-color: rgba(255,0,0,0.3)
+}
+#pre10 {
+    background-color: rgba(255,0,0,0.3)
+}
+#pre11 {
+    background-color: rgba(255,0,0,0.3);
+    margin-bottom: 30px;
+}
+
+#pre13 {
+    background-color: rgba(255,0,0,0.3);
+    margin-bottom: 30px;
+}
+
+#pre12 {
+    background-color: white;
+    text-align: center;
+    font: 1.2em sans-serif;
+    
+}
