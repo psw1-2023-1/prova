@@ -1,0 +1,107 @@
+body{
+    background-color: #ffff;
+    font-size: 15px;
+    color: black;
+    outline-style: solid;
+    border: black;
+}
+.classes{
+    background-color: yellow;
+}
+.c1{
+    background-color: blue;
+    opacity: 50%;
+    height: 100px;
+    width: 800px;
+}
+#c2{
+    background-color: #ffff;
+    margin-left: 30px;
+    text-align: right;
+    color: green;
+
+}
+#c3{
+    background-color: red;
+    margin-left: 30px;
+    text-align: right;
+    color: green;
+}
+#c4{
+    background-color: black;
+    margin-left: 30px;
+    text-align: right;
+    color: green;
+}
+.id1{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+}
+.id2{
+    background-color: green;
+    height: 150px;
+    width: 200px;
+}
+.id3{
+    background-color: red;
+    height: 200px;
+    width: 250px;
+}
+#id11{
+    background-color: #ffff;
+    text-align: left;
+
+}
+#id22{
+    background-color: #ffff;
+    text-align: right;
+    
+}
+.box1{
+    background-color: pink;
+    height: 800px;
+    width: 800px;
+    outline-style: solid;
+    border: black;
+    
+}
+.c1{
+    height: 300px;
+    background-color: green;
+}
+.img{
+    background-image: url(img.png);
+    height: 100px;
+} 
+.cl1{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    font-size: 150px;
+    color: purple;
+}
+.cl2{
+    background-color: green;
+    height: 150px;
+    width: 150px;
+}
+.cl3{
+    background-color: yellow;
+    height: 160px;
+    width: 160px;
+}
+.cl4{
+    background-color: #ee82ee;
+    height: 180px;
+    width: 180px;
+}
+.cor{
+  background-color: red;
+}
+.fonte{
+    font-size: 40px;
+}
+.alinha{
+    margin: auto;
+}

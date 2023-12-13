@@ -1,0 +1,56 @@
+#body{
+    background-color: blue;
+}
+
+#h1{
+    margin: 10px;
+    border: red;
+}
+
+#p{
+    background-color: white;
+    font-size:  30px;
+}
+
+#p1{
+    background-color: green 0.5;
+    height: 100px;
+    width: 800px;
+}
+
+#div1{
+    background-color: white;
+margin-top: 30px;
+}
+
+#div2{
+    background-color: red;
+    margin-top: 30px;
+}
+#div3{
+    background-color: black;
+    margin-top: 30px;
+}
+
+#div4{
+    background-color:green;
+height: 90px;
+width:100px;
+}
+
+#div5{
+    background-color: red;
+    height: 100px;
+    width: 150px;
+}
+#div6{
+    background-color: black;
+    height: 150px;
+    width: 200px;
+}
+
+#div7{
+    border: black solid;
+    width: 800px 800px;
+}
+

@@ -1,0 +1,197 @@
+body{
+    background-color: white;
+    margin: 0;
+    font-size: 15;
+    border: 1px solid black;
+}
+
+#p1{
+    background-color: yellow;
+}
+
+#p2{
+    background-color: green;
+    padding-right: center;
+}
+
+#p3{
+    background-color: white;
+    padding-left: 0px;
+}
+
+#p4{
+    background-color: white;
+    padding-right: 0px;
+}
+
+#pc1{
+    background-color: blue;
+    opacity: 50%;
+    height: 100px;
+    width: 800px;
+}
+
+#pc2{
+    background-color: white;
+    margin-left: 30px;
+}
+
+#pc4{
+    background-color: black;
+    margin-left: 30px;
+}
+
+.c1{
+    background-color: blue;
+    opacity: 50%;
+    height: 100px;
+    width: 800px;
+}
+
+.c2{
+    background-color: white;
+    margin-left: 30px;
+}
+
+.c3{
+    background-color: red;
+    margin-left: 30px;
+
+}
+
+.c4{
+    background-color: black;
+    margin-left: 30px;
+}
+
+#id1{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    margin-left: 50px;
+}
+
+#id2{
+    height: 150;
+    width: 200px;
+    background-color: green;
+    margin-left: 100px;
+}
+
+#id3{
+    height: 200px;
+    width: 250px;
+    background-color: red;
+    margin-left: 200px;
+}
+
+.box1{
+    background-color: pink;
+    height: 800px;
+    width: 800px;
+    border: 1px solid black;
+
+}
+
+.box2{
+    background-color: green;
+    opacity: 50%;
+    height: 300px;
+    width: 800px;
+}
+
+.imagem{
+    margin: center;
+    border: 1px solid black;
+    background-color: brown;
+    height: 300px;
+    width: 300px;
+}
+
+.quadrado1{
+    border: 1px solid black;
+    background-color: rgba(255, 99, 71, 0);
+    width: 500px;
+    height: 350px;
+    margin: 150 auto;
+}
+
+.quadrado2{
+    border: 1px solid black;
+    background-color: rgba(255, 99, 71, 0.2);
+    width: 400px;
+    height: 300px;
+    margin: 100 auto;
+}
+
+.quadrado3{
+    border: 1px solid black;
+    background-color: rgba(255, 99, 71, 0.4);
+    width: 300px;
+    height: 250px;
+    margin: 50 auto;
+}
+
+.quadrado4{
+    border: 1px solid black;
+    background-color: rgba(255, 99, 71, 0.8);
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.cl1{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+}
+
+.cl2{
+    background-color: green;
+    height: 150px;
+    width: 150px;
+}
+
+.cl3{
+    background-color: yellow;
+    height: 160px;
+    width: 160px;
+}
+
+.cl4{
+    background-color: rgb(#ee82ee);
+    height: 180px;
+    width: 180px;
+}
+
+#pr1{
+    color: rgb(255, 255, 0);
+}
+
+#pr1-2{
+    color: rgb(200, 162, 200);
+}
+
+#pr2{
+    color: rgb(0, 255, 0);
+}
+
+#pr3{
+    color: rgb(255, 0, 0);
+}
+
+#pr4{
+    color: rgb(128, 128, 128);
+}
+
+.cor{
+    background-color: red;
+}
+
+.fonte{
+    font-size: 40px;
+}
+
+.nome-alinha{
+    margin: center;
+}

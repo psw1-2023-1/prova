@@ -1,0 +1,60 @@
+.caixa1{
+    background-color: white;
+    border: black    solid;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15;
+}
+.box{
+    background-color: yellow;
+}
+#Classes{
+    background-color: yellow;
+}
+.caixa01{
+    background-color: blue;
+    height: 100px;
+    width: 800px;
+    text-align: center;
+}
+.c2{
+    background-color: white;
+}
+.id1{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    text-align: center;
+}
+#paragrafo1{
+    background-color: white;
+    margin-left: 100px;
+    margin-top: 100px;
+    text-align: center;
+    padding-left: 800px;
+}
+.id2{
+    height: 150px;
+    width: 200px;
+    background-color: green;
+    text-align: center;
+    padding-left: 400;
+}
+#paragrafo2{
+    background-color: white;
+    margin-right: 700px;
+    padding-right: 700px;
+    margin-bottom: 400px;
+}
+.id3{
+    height: 200px;
+    width: 250px;
+    background-color: red;
+}
+.c1{
+    height: 300px;
+    background-color: green;
+}
+#pr1{
+    background-color:blueviolet;
+    font-size: 150px;
+}

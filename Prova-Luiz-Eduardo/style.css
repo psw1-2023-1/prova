@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    margin: 0;
+    font-size: 15px;
+    color: black;
+}
+
+.bloco {
+
+    background-color: yellow;
+    margin: 0%;
+    padding: 0%;
+    
+
+}
+
+.bloco2 {
+
+    background-color: black;
+    height: 200px;
+    width: 200px;
+}
+
+.bloco3 {
+
+    background-color: red;
+    height: 200px;
+    width: 200px;
+
+}
+
+.bloco4 {
+
+    height: 200px;
+    width: 200px;
+}

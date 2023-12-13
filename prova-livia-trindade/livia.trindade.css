@@ -1,0 +1,169 @@
+body{
+    background-color: white;
+    margin: 0;
+    font-size: 15px;
+    color: black;
+    border:  solid black;
+}
+
+p{
+    background-color: yellow;
+}
+
+.c1{
+    background-color: rgba(0, 0, 255, 0.5);
+    height: 100px;
+    width: 800px;
+}
+
+.c2{
+    background-color: white;
+    margin-left: 30px;
+    
+}
+
+.c3{
+    background-color: red;
+    margin-left: 30px;   
+
+}
+
+.c4{
+    background-color: black;
+    margin-left: 30px;   
+
+}
+
+.c2 p{
+    background-color: green;
+    text-align: center;
+    margin-left: 750px;
+}
+
+.c3 p{
+    background-color: green;
+    text-align: center;
+    margin-left: 750px;
+}
+
+.c4 p{
+    background-color: green;
+    text-align: center;
+    margin-left: 750px;
+}
+
+.box {
+    height: 300px;
+    background-color: green;
+    margin-top: 30px;
+}
+
+#id1{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    margin-left: 50px;
+   
+}
+
+#id2{
+    height: 150px;
+    width: 200px;
+    background-color: green;
+    margin-left: 100px;
+    
+}
+
+#id3{
+    height: 200px;
+    width: 250px;
+    background-color: red;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+#id1 p{
+    background-color: white;
+    text-align: left;  
+}
+
+#id2 p{
+    background-color: white;
+    text-align: right;
+}
+
+.box1{
+    margin-top: 30px;
+    background-color: pink;
+    width: 800px;
+    height: 800px;
+    border: solid black;
+}
+
+#img{
+    margin-top: 30px;
+    height: 300px;
+    width: 300px;
+    margin-left: 480px;
+    border: solid red;
+}
+
+
+.main{
+    background-color: rgba(255, 99, 71, 0.2);
+    border: solid black;
+    height: 300px;
+    width: 300px;
+}
+
+#d1{
+    background-color: rgba(255, 99, 71, 0.4);
+    border: solid black;
+    height: 200px;
+    width: 200px;
+}
+
+#d2 {
+    background-color: rgba(255, 99, 71, 0.6);
+    border: solid black;
+    height: 100px;
+    width: 100px;
+}
+
+#d3{
+    background-color: rgba(255, 99, 71, 0.8);
+    border: solid black;
+    height: 50px;
+    width: 50px;
+}
+
+.cl1 { 
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    color: rgb(255, 255, 0);
+    font-size: 150px;
+    
+}
+
+.cl2 { 
+    background-color: green;
+    height: 150px;
+    width: 150px;
+    color: rgb(0, 255, 0);
+}
+
+.cl3 { 
+    background-color: yellow;
+    height: 160px;
+    width: 160px;
+    color: rgb(255, 0, 0);
+}
+
+.cl4 { 
+    background-color: #ee82ee;
+    height: 180px;
+    width: 180px;
+    color: rgb(50, 50, 44);
+}
+

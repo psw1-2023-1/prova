@@ -1,0 +1,194 @@
+body {
+    background-color: white;
+    border: 15px;
+    border-color: black;
+    border-style: solid;
+}
+
+
+.classes {
+    background-color: yellow;
+}
+
+.c1 {
+    background-color: rgba(0, 0, 255, 0.500);
+    width: 800px;
+    height: 100px;
+}
+
+
+
+
+
+
+
+
+.c2 {
+    background-color: white;
+    height: 100px;
+    height: 100px;
+    padding-top: 50px;
+    margin-left: 30px;
+
+}
+
+.c3 {
+    background-color: red;
+    height: 100px;
+    height: 100px;
+    padding-top: 50px;
+    margin-left: 30px;
+}
+
+.c4 {
+    background-color: black;
+    height: 100px;
+    height: 100px;
+    padding-top: 50px;
+    margin-left: 30px;
+}
+
+.c31 {
+    background-color: green;
+}
+
+
+#id1 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 50px;
+}
+
+#id2 {
+    width: 200px;
+    height: 150px;
+    background-color: green;
+    margin: 100px;
+}
+
+#id3 {
+    width: 250px;
+    height: 200px;
+    background-color: red;
+    margin: 200px;
+}
+
+#p1 {
+    background-color: white;
+    text-align: left;
+}
+
+#p2 {
+    background-color: white;
+    text-align: right;
+}
+
+
+
+.box1 {
+    background-color: pink;
+    width: 800px;
+    height: 800px;
+
+}
+
+
+
+
+
+.c1 {
+    background-color: rgba(0, 0, 255, 0.500);
+    height: 300px;
+}
+
+
+
+
+
+.q1 {
+    background-color: rgb(255, 99, 71);
+    height: 300px;
+    width: 300px;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    padding: 25px;
+}
+
+.q2 {
+    background-color: rgba(255, 99, 71, 0.8);
+    height: 250px;
+    width: 250px;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    padding: 25px;
+}
+
+.q3 {
+    background-color: rgba(255, 99, 71, 0.6);
+    height: 200px;
+    width: 200px;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    padding: 25px;
+}
+
+.q4 {
+    background-color: rgba(255, 99, 71, 0.4);
+    height: 150px;
+    width: 150px;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    padding: 25px;
+}
+
+
+
+
+
+
+.cl1 {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+}
+
+.cl2 {
+    background-color: green;
+    height: 150px;
+    width: 150px;
+}
+
+.cl3 {
+    background-color: yellow;
+    height: 160px;
+    width: 160px;
+}
+
+.cl4 {
+    background-color: #ee82ee;
+    height: 180px;
+    width: 180px;
+}
+
+#pr1 {
+    background-color: #ee82ee;
+    color: rgb(255, 255, 0);
+    font-size: 150px;
+}
+
+#pr2 {
+    color: rgb(0, 255, 0);
+}
+
+#pr3 {
+    color: rgb(255, 0, 0);
+}
+
+#pr4 {
+    color: rgb(123, 123, 123);
+}

@@ -1,0 +1,23 @@
+body {
+background-color: white;
+font: 15px;
+color: black;
+border: 3px solid black;
+}
+h1 {
+    background-color: yellow;
+}
+.c1 {
+    background-color: rgba(0, 0, 255, 0.5);
+    height: 100px;
+    width: 800px;
+}
+.c2 {
+    background-color: white;
+}
+.c3 {
+    background-color: red;
+}
+.c4 {
+    background-color: black;
+}

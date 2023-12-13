@@ -1,0 +1,211 @@
+/* Q01 */
+
+body{
+    background-color: white;
+    margin: 0;
+    font-size: 15px;
+    color:black;
+    border: 5px black solid;
+}
+
+/* Q02 */
+
+p{
+    background-color: yellow;
+}
+
+/* Q03 */
+
+.c1{
+    background-color: rgba(0, 0, 255, 0.5);
+    height: 100px;
+    width: 800px;
+}
+
+/* Q04 */
+
+.c2{
+    background-color: white;
+    margin-left: 30px;
+    text-align: center;
+    height: 100px;
+}
+
+#c2{
+    background-color: green;
+    text-align: center;
+    background-position: center right;
+    margin-left: 500px;
+    height: 90px;
+}
+
+.c3{
+    background-color: red;
+    margin-left: 30px;
+    text-align: center;
+    height: 100px;
+}
+
+#c3{
+    background-color: green;
+    text-align: center;
+    background-position: center right;
+    margin-left: 500px;
+    height: 90px;
+}
+
+.c4{
+    background-color: black;
+    margin-left: 30px;
+    text-align: center;
+    height: 100px;
+}
+
+#c4{
+    background-color: green;
+    text-align: center;
+    background-position: center right;
+    margin-left: 500px;
+    height: 90px;
+}
+
+/* Q05 */
+
+.id1{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+
+}
+
+#id1p1{
+    background-color: white;
+    text-align: left;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.id2{
+    height: 150px;
+    width: 200px;
+    background-color: green;
+}
+
+#id2p2{
+    background-color: white;
+    text-align: right;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.id3{
+    height: 200px;
+    width: 250px;
+    background-color: red;
+}
+
+/* Q06 */
+.box1{
+    background-color: pink;
+    height: 800px;
+    width: 800px;
+    border: 5px black solid;
+}
+
+/* Q07 */
+.box{
+    height: 300px;
+    background-color: green;
+}
+
+/* Q08 */
+.img{
+    background-image: url(logoeduardo.png);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 300px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border: 5px mediumseagreen solid;
+}
+
+/* Q09 */
+.div1{
+    border: 5px black solid;
+    background-color: rgba(255, 99, 71, 0.2);
+}
+
+.div2{
+    border: 5px black solid;
+    background-color: rgba(255, 99, 71, 0.2);
+}
+
+.div3{
+    border: 5px black solid;
+    background-color: rgba(255, 99, 71, 0.2);
+}
+
+.div4{
+    border: 5px black solid;
+    background-color: rgba(255, 99, 71, 0.2);
+}
+
+/* Q10 */
+.cl1{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    color: rgb(255, 165, 0);
+    padding: 10px;
+}
+
+.cl2{
+    background-color: green;
+    height: 150px;
+    width: 150px;
+    color: rgb(0, 255, 0);
+}
+
+.cl3{
+    background-color: yellow;
+    height: 160px;
+    width: 160px;
+    color: rgb(255, 0, 0);
+}
+
+.cl4{
+    background-color: #ee82ee;
+    height: 180px;
+    width: 180px;
+    color: rgb(120, 120, 120);
+}
+
+#pr1{
+    font-size: 150px;
+    color: blueviolet;
+}
+
+/* Q11 */
+.cor{
+    background-color: red;
+}
+
+.fonte{
+    font-size: 40px;
+}
+
+.alinha{
+    align-items: center;
+}
+
+#a{
+    background-color: red;
+}
+
+#b{
+    font-size: 40px;
+}
+
+#c{
+    align-items: center;
+}

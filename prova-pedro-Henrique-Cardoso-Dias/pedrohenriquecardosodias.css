@@ -1,0 +1,124 @@
+#p1{
+color: blue;
+border: solid red 2px;
+margin: 10px;
+height: 30px;
+
+}
+
+
+
+#paragrafo{
+height: 200px;
+background-color: white;
+
+}
+#pg1{
+    font-size: 30px;
+    text-align: center;
+}
+
+#pg2{
+    font-size: 30px;
+    
+}
+
+.classc1{
+    background-color:rgba(0, 255, 0, 0.5);
+    height: 100px;
+ width: 800px;
+}
+
+.c2{
+background-color: white;
+margin-top: 30px;
+height: 80px;
+width: 100px;
+padding-top: 30px;
+padding-left: 40px;
+}
+
+.c3{
+background-color: red;
+margin-top: 30px;
+height:80px;
+width: 100px;
+margin-left: 200px;
+margin-top: -100px;
+padding-top: 30px;
+padding-left: 40px;
+}
+
+.c4{
+background-color: black;
+margin-top: 30px;
+height: 80px;
+width: 100px;
+margin-left: 400px;
+margin-top: -110px;
+padding-top: 30px;
+padding-left: 40px;
+
+}
+.p2{
+    background-color: white;
+    font-size: 20px;
+    height: 20px;
+    width: 20px;
+}
+
+.p3{
+    background-color: white;
+    font-size: 20px;
+    height: 20px;
+    width: 20px;
+}
+
+.p4{
+    background-color: white;
+    font-size: 20px;
+    height: 20px;
+    width: 20px;
+}
+
+
+#div1{
+    height: 90px;
+    width: 100px;
+    background-color: green;
+    margin: 50px;
+}
+
+
+#div2{
+    height:100px;
+    width: 150px;
+    background-color: red;
+    margin: 50px;
+}
+#div3{
+    height: 150px;
+    width: 200px;
+    background-color: black;
+    margin: 20px;
+}
+
+#div11{
+    background-color: white;
+    width: 70px;
+}
+
+#div21{
+    background-color: white;
+    height: 30px;
+    width: 70px;
+}
+
+.box1{
+    height: 800px;
+    width: 800px;
+    border: solid black 2px;
+
+}
+
+

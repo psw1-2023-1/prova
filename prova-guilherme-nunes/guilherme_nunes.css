@@ -1,0 +1,125 @@
+body{
+    background-color: white;
+    margin: 0%;
+    font-size: 15;
+    color: black;
+    border: 4px black solid;
+}
+#title{
+    background-color: yellow;
+}
+.c1{
+    background-color: blue;
+    opacity: 50%;
+    height: 100px;
+    width: 800px;
+}
+.c2{
+background-color: white;
+margin-left: 30px; 
+height: 50px;
+}
+.c3{
+background-color: red;
+margin-left: 30px; 
+height: 50px;
+}
+.c4{
+ background-color: black;
+ margin-left: 30px; 
+ height: 50px;
+
+}
+.iv{
+    background-color: green;
+    text-align: center;
+    margin-left: 80%;
+}
+#id1{
+height: 100px;
+width: 100px;
+background-color: blue;
+margin-left: 50px;
+}
+#id2{
+height: 150px; 
+width: 200px;
+background-color: green;
+margin-left: 100px;
+}
+#id3{
+height: 200px; 
+width: 250;
+background-color: red;
+margin-left: 200px;
+}
+#vx1{
+background-color: white;
+margin-right: 25px;
+}
+#vx2{
+background-color: white;
+margin-left: 140px;
+}
+.box1{
+    background-color: pink;
+    height: 800px;
+    width: 800px;
+    border: 3px black solid;
+}
+#vs{
+    height: 300px;
+    background-color: green;
+}
+.vtd{
+    border: 3px black solid;
+    background-color: rgb(255, 99, 71,0.1);
+}
+#vr1{
+height: 250px;
+width: 250px;
+background-color: rgb(255, 99, 71,0.1);
+}
+#vr2{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(255, 99, 71,0.1);
+}
+#vr3{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(255, 99, 71,0.2);
+}
+#vr4{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 99, 71,0.2);
+}
+.cl1{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    color:rgb(255, 255, 0) ;
+}
+.cl2{
+    background-color: green;
+    height: 150px;
+    width: 150px;
+    color: rgb(72, 255, 0);
+}
+.cl3{
+    background-color: yellow;
+    height: 160px;
+    width: 160px;
+    color: rgb(255, 0, 0);
+}
+.cl4{
+    background-color: #ee82ee;
+    height: 180px;
+    width: 180px;
+    color: rgb(121, 121, 121);
+}
+#pr1{
+    font-size: 150px;
+    color: violet;
+}
